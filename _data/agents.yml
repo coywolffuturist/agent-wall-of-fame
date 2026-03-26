@@ -16,7 +16,7 @@
 
 - id: coywolf
   name: Coywolf
-  office: Pack OS
+  office: OS-1 / Pack OS
   owner: Operator
   role: Pack Agent
   description: Infrastructure, debugging, and persistence.
